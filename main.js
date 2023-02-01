@@ -15,10 +15,17 @@ function spustAudio() {
     prehravac.play();
 }
 
-function reset() {
+function resetAudio() {
     prehravac.currentTime = 0;
  }
 
+ function resetAudio1() {
+    prehravac.currentTime = 0,5;
+ }
+
+ function resetAudio1() {
+    prehravac.currentTime = 1;
+ }
 function zastavAudio() {
     prehravac.pause();
 }
