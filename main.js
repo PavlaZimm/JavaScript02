@@ -5,7 +5,7 @@ function zmenBarvu() {
 
 
 function zmenVelikost() {
-    odstavec.classList.toggle('csstrida2');
+    odstavec.style.fontSize = "30px";
 }
 
 
