@@ -15,6 +15,13 @@ body {
 }
 
 .csstrida{
-    color: red;
-    
+    color: red;    
+}
+
+.csstrida2{
+    font: 37px;
+}
+
+.prehravacek{
+	padding: 50px;
 }
